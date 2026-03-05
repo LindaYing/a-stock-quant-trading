@@ -23,7 +23,7 @@ app.secret_key = secrets.token_hex(32)  # 随机密钥
 # 配置
 CONFIG = {
     'username': 'admin',  # 默认用户名
-    'password': 'quant2026888',  # 密码已修改
+    'password': 'PASS_WORD',  # 密码已修改
     'allow_localhost_only': False,  # True = 仅允许本机访问
     'session_timeout': 3600  # 会话超时时间（秒）
 }
